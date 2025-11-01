@@ -13,21 +13,21 @@
 
 ## Current Development State
 
-AgenticLedger is operational with working deployments of both core platforms. ZeekeeCore is live at zeekee.ai serving as the Zircuit ecosystem expert agent. The guides platform is deployed at guides.zeekee.ai with initial content demonstrating interactive guides with embedded AI assistance. The grant funds adaptation of these proven systems to broader Zircuit ecosystem needs, including ZeekeeForge agent creation platform, ZeekeeConnect integration layer, and comprehensive content expansion.
+AgenticLedger is operational with working MVP deployments of both core platforms for demo. You can find and interact with this mvp at zeekee.ai serving as the Zircuit ecosystem expert agent. The guides platform is deployed at guides.zeekee.ai with very limited initial demo content demonstrating interactive guides with embedded AI assistance. The grant funds expansion of these MVPs to full utilization an to broader Zircuit ecosystem needs, including ZeekeeForge agent creation platform, ZeekeeConnect integration layer, and comprehensive content expansion.
 
 ## Tasks Required for Successful Launch
-
-* Complete ZeekeeForge agent creation interface so builders can configure custom agents
-* Develop ZeekeeConnect integration framework for ecosystem API connectivity
-* Expand guides platform with comprehensive tutorials covering major use cases
+* Setup wholistic Zircuit toolkit making it available for builders
+  * Complete ZeekeeForge agent wizard so builders can configure custom agents
+  * Develop ZeekeeConnect API agent
+* Expand guides platform with comprehensive tutorials covering major topics
 * Onboard 5 early partner projects to validate toolkit and gather feedback
 * Establish community creator program for guide contributions
-* Integrate with major Zircuit protocols for real-time data access
+* Integrate with major Zircuit projects with APIs
 
 ## Anticipated Timeline
 
 * **Weeks 1-4:** Platform infrastructure completion, initial content creation, early partner onboarding
-* **Weeks 5-8:** Ecosystem adoption expansion, protocol integrations, community program launch
+* **Weeks 5-8:** Ecosystem adoption expansion, project integrations, community program launch
 * **Weeks 9-10:** Scale operations, advanced features, content library growth
 * **Weeks 11-12:** Sustainability mechanisms, documentation, operations planning
 
