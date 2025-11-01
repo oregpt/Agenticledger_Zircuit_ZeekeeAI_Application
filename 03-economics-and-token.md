@@ -12,7 +12,7 @@ Focus on immediate utility, not token mechanics—with future vision for AI agen
 
 ## Protocol Economics
 
-We're focused on building useful infrastructure first, not launching a token. The value comes from helping projects save money on support, getting users onboarded faster, and preserving knowledge that usually gets lost in Discord. Builders benefit from reduced operational overhead as AI agents handle repetitive support inquiries. Users get instant, accurate guidance available 24/7. The guides platform includes a tip system where community members can reward helpful guide creators in ZRC or stablecoins, creating direct value flow to contributors.
+We're focused on building useful AI agents that enable other builders first. The value comes from helping projects save money on support, getting users onboarded faster, and preserving knowledge that usually gets lost in Discord. Builders benefit from reduced operational overhead as AI agents handle repetitive support inquiries. Users get instant, accurate guidance available 24/7. The guides platform includes a tip system where community members can reward helpful guide creators in ZRC or stablecoins, creating direct value flow to contributors.
 
 ## Future Tokenization Vision
 
